@@ -1,5 +1,5 @@
 # Simon-game
-# Click <a href="">Here</a>
+# Click <a href="https://shabari02.github.io/Simon-game/">Here</a> 😄
 
 # Preview
 ![image](https://user-images.githubusercontent.com/83392438/181909610-b473470d-3a44-435a-85d7-0706947b6796.png)
