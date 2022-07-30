@@ -1,4 +1,4 @@
-# Simon-game
+# Simon-game (PC version)
 # Click <a href="https://shabari02.github.io/Simon-game/">Here</a> 😄
 
 # Preview
