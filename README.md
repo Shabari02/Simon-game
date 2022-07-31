@@ -1,4 +1,4 @@
-# Simon-game (PC version)
+# Simon game challenge by App brewery  (PC version)
 # Click <a href="https://shabari02.github.io/Simon-game/">Here</a> 😄
 
 # Preview
